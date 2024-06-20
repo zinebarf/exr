@@ -13,7 +13,7 @@ class UsersType extends AbstractType
     {
         $builder
             ->add('nom')
-            ->add('prénom')
+            ->add('prenom')
             ->add('email')
             ->add('addresse')
             ->add('tel')
